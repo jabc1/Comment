@@ -8,10 +8,10 @@
 ********************************************************************************/
 º¯Êý×¢ÊÍ¹æ·¶
 /*******************************************************************************
-  *Function:void nrf_send_mode()
-  *Description:nrf send mode
-  *Input:NULL
-  *Output:NULL
-  *Return:NULL
-  *Others:NULL
+* @Function:void nrf_send_mode()
+* @Description:nrf send mode
+* @Input:NULL
+* @Output:NULL
+* @Return:NULL
+* @Others:NULL
 ********************************************************************************/
